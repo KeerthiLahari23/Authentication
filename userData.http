@@ -1,0 +1,7 @@
+###
+POST http://3000/register
+
+POST http://3000/login
+
+PUT http://3000/change-password
+
